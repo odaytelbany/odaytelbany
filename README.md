@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm looking for a job
+👨‍💻 I'm oday, a 22 years old software engineer.
+
+🌱 I’m currently learning MERN Stack.
+
+💼 I’m looking for a job.
+
+📫 How to reach me: oday0592631989@gmail.com .
 
 
 ## 🌐 Socials:
